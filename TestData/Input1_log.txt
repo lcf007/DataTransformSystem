@@ -1,0 +1,20 @@
+Started to transform data from file: ../../../TestData/Input1.csv
+Failed, Wrong format in line: 3:  , , , , 
+Failed, Wrong format in line: 4:  ,,,,
+Failed, Wrong format in line: 5: 1,,,,
+Failed, Wrong format in line: 6: ,Account,,,
+Failed, Wrong format in line: 7: ,,5,,
+Failed, Wrong format in line: 8: 3123|EFGH,Your Account 1,-1,88/88/2018,EF
+Failed, Wrong format in line: 10: 3125|,Your Account 3,1,1/1/2018,CD
+Failed, Wrong format in line: 11: |,Your Account 4,1,1/1/2018,CD
+Failed, Wrong format in line: 16: 3127|EFGH5,Your Account 9,5,1/1/2018,US
+Failed, Wrong format in line: 17: 3127|EFGH6,Your Account 10,0,1/1/2018,US
+Failed, Wrong format in line: 18: 3127|EFGH7,Your Account 11,4,1/2/2018,DE
+Failed, Wrong format in line: 19: 3127|EFGH8,Your Account 12,4,1/3/2018,DE
+Failed, Wrong format in line: 20: 3127|EFGH9,Your Account 13,4,88/4/2018,CD
+Failed, Wrong format in line: 21: 3127|EFGH10,Your Account 14,4,1/88/2018,US
+Failed, Wrong format in line: 22: 3127|EFGH11,Your Account 15,-2,1/6/2018,CD
+Failed, Wrong format in line: 23: 3127|EFGH12,Your Account 16,-3,1/7/2018,US
+Finished to transform data to file: ../../../TestData/Input1_converted.csv
+HasHeader: True, Succeed line: 7, Failed: 16, Total: 23.
+----------------------END---------------------

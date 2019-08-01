@@ -1,0 +1,23 @@
+Identifier,Name,Type,Opened,Currency
+123|AbcCode,My Account,2,1/1/2018,CD
+ , , , , 
+ ,,,,
+1,,,,
+,Account,,,
+,,5,,
+3123|EFGH,Your Account 1,-1,88/88/2018,EF
+|EFGH,Your Account 2,1,1/1/2018,CD
+3125|,Your Account 3,1,1/1/2018,CD
+|,Your Account 4,1,1/1/2018,CD
+3127|EFGH1,Your Account 5,1,1/1/2018,CD
+3127|EFGH2,Your Account 6,2,1/1/2018,US
+3127|EFGH3,Your Account 7,3,1/1/2018,US
+3127|EFGH4,Your Account 8,4,1/1/2018,US
+3127|EFGH5,Your Account 9,5,1/1/2018,US
+3127|EFGH6,Your Account 10,0,1/1/2018,US
+3127|EFGH7,Your Account 11,4,1/2/2018,DE
+3127|EFGH8,Your Account 12,4,1/3/2018,DE
+3127|EFGH9,Your Account 13,4,88/4/2018,CD
+3127|EFGH10,Your Account 14,4,1/88/2018,US
+3127|EFGH11,Your Account 15,-2,1/6/2018,CD
+3127|EFGH12,Your Account 16,-3,1/7/2018,US

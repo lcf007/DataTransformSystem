@@ -1,0 +1,5 @@
+AccountCode,Name,Type,Open Date,Currency
+abcCode,My Account,RRSP,,CAD
+code 1,Your Account 1,FUND,,USD
+code 2,Your Account 2,Trading,,CAD
+code 3,Your Account 3,RESP,,USD

@@ -1,0 +1,14 @@
+Started to transform data from file: ../../../TestData/Input2.csv
+Failed, Wrong format in line: 2:  , , , 
+Failed, Wrong format in line: 3: ,,,
+Failed, Wrong format in line: 4: ,,,
+Failed, Wrong format in line: 5: Account,,,
+Failed, Wrong format in line: 6: ,5,,
+Failed, Wrong format in line: 10: Your Account 4,chinese,C,code 4
+Failed, Wrong format in line: 11: Your Account 5,spx,U,code 5
+Failed, Wrong format in line: 12: Your Account 6,RESP,D,code 6
+Failed, Wrong format in line: 13: ,RESP,D,code 7
+Failed, Wrong format in line: 14: Your Account 8,RESP,D,
+Finished to transform data to file: ../../../TestData/Input2_converted.csv
+HasHeader: False, Succeed line: 4, Failed: 10, Total: 14.
+----------------------END---------------------
